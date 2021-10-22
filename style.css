@@ -1,0 +1,39 @@
+    h1 {
+        color: red; font: size 12px;}
+    selector { property: value;property: value;}
+    h2 {
+        color: rgb(255, 0, 0); font-size: 12px;
+        selector{ property(value) ;property: value}
+    }
+
+    h3 {
+        color: rgb(255, 0, 0); font-size: 40px;
+        
+    }
+
+    h4 {
+        color: rgb(255, 0, 0); font-size: 12px;
+    }
+
+    h5 {
+        color: rgb(255, 0, 0); font-size: 12px;
+    }
+
+    h6 {
+        color: rgb(255, 0, 0); font-size: 12px;
+    }
+.navbar{
+    text-align: 40;
+    background-color: red;
+    color:sienna; 
+    text-align: center;
+
+}
+
+.maincontent{
+    background-color:silver
+    width: 75%;
+    margin-left: auto;
+    display: block;
+}
+    
