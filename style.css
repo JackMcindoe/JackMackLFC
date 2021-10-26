@@ -1,9 +1,7 @@
     h1 {
         color: red; font: size 12px;}
-    selector { property: value;property: value;}
     h2 {
         color: rgb(255, 0, 0); font-size: 12px;
-        selector{ property(value) ;property: value}
     }
 
     h3 {
@@ -31,9 +29,19 @@
 }
 
 .maincontent{
-    background-color:silver
+    background-color:silver;
     width: 75%;
     margin-left: auto;
     display: block;
 }
     
+
+#socials {
+    width: 100%;
+    height: 7vh;
+    background-color: rgb(255, 0, 0);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 20px;
+}
